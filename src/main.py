@@ -5,6 +5,13 @@ class Jogo:
 
     def inicia(self):
         self
+        
+class Carta:
+    def __init__(self):
+        pass
+
+    def apresente_se(self):
+      pass
 
 class Tesouro:
 
@@ -23,5 +30,8 @@ class Baralho:
         pass
 
     def mostre_me (self):
-        pass
+      pass
+   
+
+        
 
